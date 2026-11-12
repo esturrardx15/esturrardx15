@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, eu sou Eduardo Teodoro
 
-<!--
-**esturrardx15/esturrardx15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Sistemas de Informação na UFU e atuo como software engineer, com foco em backend Java/SpringBoot e IA aplicada. Também tenho experiencia com frontend Angular e observabilidade usando Dynatrace.
 
-Here are some ideas to get you started:
+## Áreas de atuação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** Java, SpringBoot, APIs REST e MongoDB
+- **Frontend:** Angular, TypeScript, HTML, CSS e SCSS
+- **Observabilidade:** Dynatrace, métricas, logs, traces, alertas e análise de incidentes
+- **IA aplicada:** Github Copilot e agentes para apoiar o desenvolvimento
+- **Outras ferramentas:** Python, SQL, Docker Git e GitHub
+
+## Projetos
+- [IndicaFilme](https://github.com/esturrardx15/IndicaFilme) - aplicação Java/SpringBoot para recomendação e sorteio de filmes com filtros.
+- [Chat-Verso](https://github.com/esturrardx15/Chat-Verso) - aplicação de chat em tempo real com Python e Flask-SocketIO.
+- [IAPY](https://github.com/esturrardx15/IAPY) - estudo de classificação de score de crédito com Python e scikit-learn.
+- [BHTrip](https://github.com/esturrardx15/BHTrip) - aplicação web que sugere passeios em Belo Horizonte com base em filtros.
+- [nutri-homepage](https://www.linkedin.com/in/est-teodoro/nutri-homepage) - site responsivo para nutricionista, desenvolvido com HTML, CSS JavaScript e Google Apps Script, com deploy em Vercel.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/est-teodoro/)
