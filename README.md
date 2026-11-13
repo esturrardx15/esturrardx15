@@ -1,14 +1,13 @@
 ## Olá, eu sou Eduardo Teodoro
 
-Sou estudante de Sistemas de Informação na UFU e atuo como software engineer, com foco em backend Java/Spring Boot e IA aplicada. Também tenho experiencia com frontend Angular e observabilidade usando Dynatrace.
+Sou estudante de Sistemas de Informação na UFU e atuo como software engineer, com foco em backend Java/Spring Boot e IA aplicada. Também tenho experiência com frontend Angular e observabilidade usando Dynatrace.
 
 ## Áreas de atuação
-
-- **Backend:** Java, Spring Boot, APIs REST e MongoDB
-- **Frontend:** Angular, TypeScript, HTML, CSS e SCSS
-- **Observabilidade:** Dynatrace, métricas, logs, traces, alertas e análise de incidentes
-- **IA aplicada:** Github Copilot e agentes para apoiar o desenvolvimento
-- **Outras ferramentas:** Python, SQL, Docker, Git e GitHub
+- **Backend:** Java, Spring Boot, APIs REST e MongoDB.
+- **Frontend:** Angular, TypeScript, HTML, CSS e SCSS.
+- **Observabilidade:** Dynatrace, métricas, logs, traces, alertas e análise de incidentes.
+- **IA aplicada:** Github Copilot e agentes para apoiar o desenvolvimento.
+- **Outras ferramentas:** Python, SQL, Docker, Git e GitHub.
 
 ## Projetos
 - [IndicaFilme](https://github.com/esturrardx15/IndicaFilme) - aplicação Java/Spring Boot para recomendação e sorteio de filmes com filtros.
@@ -18,5 +17,4 @@ Sou estudante de Sistemas de Informação na UFU e atuo como software engineer, 
 - [nutri-homepage](https://github.com/esturrardx15/nutri-homepage) - site responsivo para nutricionista, desenvolvido com HTML, CSS JavaScript e Google Apps Script, com deploy em Vercel.
 
 ## Contato
-
 [LinkedIn](https://www.linkedin.com/in/est-teodoro/)
