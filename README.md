@@ -15,7 +15,7 @@ Sou estudante de Sistemas de Informação na UFU e atuo como software engineer, 
 - [Chat-Verso](https://github.com/esturrardx15/Chat-Verso) - aplicação de chat em tempo real com Python e Flask-SocketIO.
 - [IAPY](https://github.com/esturrardx15/IAPY) - estudo de classificação de score de crédito com Python e scikit-learn.
 - [BHTrip](https://github.com/esturrardx15/BHTrip) - aplicação web que sugere passeios em Belo Horizonte com base em filtros.
-- [nutri-homepage](https://www.linkedin.com/in/est-teodoro/nutri-homepage) - site responsivo para nutricionista, desenvolvido com HTML, CSS JavaScript e Google Apps Script, com deploy em Vercel.
+- [nutri-homepage](https://github.com/esturrardx15/nutri-homepage) - site responsivo para nutricionista, desenvolvido com HTML, CSS JavaScript e Google Apps Script, com deploy em Vercel.
 
 ## Contato
 
